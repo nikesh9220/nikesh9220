@@ -81,8 +81,8 @@ Hi, I'm Nikesh Pandya!
 <br/>
 <p align="center">
 	<a href="https://github.com/nikesh9220">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nikesh9220&show_icons=true" alt="Nikesh Pandya">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikesh9220" alt="Nikesh Pandya">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nikesh9220&show_icons=true&count_private=true" alt="Nikesh Pandya">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikesh9220&count_private=true" alt="Nikesh Pandya">
 	</a>
 	<br/>
 </p>
@@ -92,7 +92,7 @@ Hi, I'm Nikesh Pandya!
 <br/>
 <p align="center">
 	<a href="https://github.com/nikesh9220">
-		<img src="https://activity-graph.herokuapp.com/graph?username=nikesh9220&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="Nikesh Pandya">
+		<img src="https://activity-graph.herokuapp.com/graph?username=nikesh9220&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true&count_private=true" alt="Nikesh Pandya">
 	</a>
 </p>
 <br/>
@@ -102,7 +102,7 @@ Hi, I'm Nikesh Pandya!
 
 <p align="center">
 	<a href="https://github.com/nikesh9220">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikesh9220&langs_count=8&layout=compact" alt="Nikesh Pandya">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikesh9220&langs_count=8&layout=compact&count_private=true" alt="Nikesh Pandya">
 	</a>
 	<br/>
 <br/>
