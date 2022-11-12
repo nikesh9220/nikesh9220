@@ -14,9 +14,7 @@ Hi, I'm Nikesh Pandya!
 </p>
 <br/>
 <p align="center">
-	<a href="https://github.com/nikesh9220">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
+<a href="https://github.com/nikesh9220"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Developer;C%23%2C+Angular%2C+React+Developer;You+can+hire+me+as+a+Freelancer" alt="Typing SVG" /></a>
 </p>
 
 <hr>
